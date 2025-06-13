@@ -1,1 +1,3 @@
-This project creates a fully operational TypeScript environment, with tests enabled!
+Quick setup for coding part of the tech interview
+
+Clone or download as zip of the repo.
