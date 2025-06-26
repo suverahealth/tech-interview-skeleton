@@ -4,6 +4,6 @@ type BPValue = {
 };
 
 type BPReading = {
-  reading: BPValue;
+  value: BPValue;
   timestamp: Date;
 };
